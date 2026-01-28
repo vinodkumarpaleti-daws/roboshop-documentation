@@ -150,7 +150,7 @@ Configuration file is `/etc/nginx/nginx.conf`
 Use below commands to check data is loaded into mongodb or not
 Connect to MongoDB
 ```
-mongosh --host MONGODB-SERVER-IPADDRESS
+mongosh --host MONGODB-SERVER-IPADDRESS  # This will open the 'db' mode to check the commands
 ```
 
 Show databases

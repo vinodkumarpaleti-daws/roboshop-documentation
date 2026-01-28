@@ -100,6 +100,8 @@ systemctl start shipping
 
 For this application to work fully functional we need to load schema to the Database.
 
+**You should complete the below steps too, inorder to app work otherwise shipping does not up and running**
+
 Schemas are usually part of application code and developer will provide them as part of development.
 
 We need to load the schema. To load schema we need to install mysql client.
